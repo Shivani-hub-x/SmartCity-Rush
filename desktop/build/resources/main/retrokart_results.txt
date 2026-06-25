@@ -1,0 +1,9 @@
+=== RetroKart Results Export ===
+Total entries: 3
+Rank | Player       | Time   | Date
+-----|--------------|--------|----------
+1    | Player       | 0:35.41 | 2026-06-21
+2    | krishsati    | 0:37.52 | 2026-04-30
+3    | vnz          | 0:54.74 | 2026-06-21
+Unique players: 3
+
